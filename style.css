@@ -1,0 +1,53 @@
+html{
+    background-color: #a9fffa;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
+    padding: 40px;
+    color: black;
+    border-top: 10px solid black;
+    background-color: #fff;
+}
+
+time{
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+h1{
+    font-size: 3em;
+    margin: 0;
+}
+
+p{
+    line-height: 1.5em;
+    margin-left: 50px;
+    width: 800px;
+}
+
+h2{
+    font-size: 2em;
+    margin: 0;
+}
+
+h3{
+    font-size: 1.5em;
+    font-style: oblique;
+    margin: 0;
+}
+
+li{
+    font-style: inherit;
+}
+
+#blog{
+    border-top: 3px dotted #b8e1ff;
+}
+
+.blog-post{
+    border-bottom: 1px dotted #e8aeb7;
+}
+
+
