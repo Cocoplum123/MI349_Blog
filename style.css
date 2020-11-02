@@ -12,9 +12,14 @@ body{
 }
 
 .navi{
-    background: #555555;
     position: sticky;
+    
+    top: 0;
+}
+.sticky{
+    background: #555555;
     position: -webkit-sticky;
+    position: sticky;
     top: 0;
 }
 section{
@@ -55,9 +60,9 @@ h2{
 img.img1{
     background: blue;
     height: 120px;
-    width: 160px;
+    width: 200px;
     float: left;
-    margin-right: 150px;
+    margin-right: 120px;
     margin-bottom: 10px;
 }
 img.img2{
@@ -86,3 +91,5 @@ li{
 .blog-post{
     border-bottom: 1px dotted #e8aeb7;
 }
+
+
