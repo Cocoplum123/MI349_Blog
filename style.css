@@ -17,6 +17,10 @@ body{
     position: -webkit-sticky;
     top: 0;
 }
+section{
+    display:flex;
+}
+
 
 time{
     font-weight: bold;
@@ -60,8 +64,9 @@ img.img2{
     background: blue;
     height: 150px;
     width: 200px;
-    margin-right: 20px;
-    float: left;
+    float: right;
+    margin-left: 20px;
+    
 }
 
 h3{
@@ -81,5 +86,3 @@ li{
 .blog-post{
     border-bottom: 1px dotted #e8aeb7;
 }
-
-
