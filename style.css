@@ -92,4 +92,10 @@ li{
     border-bottom: 1px dotted #e8aeb7;
 }
 
+@media (max-width: 1000px){
+    #c1{
+        background: red;
+    }
+    #c2
+}
 
