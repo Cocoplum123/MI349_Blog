@@ -93,9 +93,10 @@ li{
 }
 
 @media (max-width: 600px){
-    #c1{
-        background: red;
+    .sticky{
+        background: #fd0101;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
     }
-    #c2
 }
-
